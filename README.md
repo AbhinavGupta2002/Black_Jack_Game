@@ -1,3 +1,5 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://raw.githubusercontent.com/AbhinavGupta2002/AstonHack2021/main/LICENSE)
+
 # Black_Jack_Game
 This self developed project, developed in Python, is very similar to the well known Black Jack cards physical game.
 

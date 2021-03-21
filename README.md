@@ -10,5 +10,3 @@ Hence, there are certain comments included in the python file that I have kept f
 The python file consists of minimal documentation.
 
 This self developed program is under the MIT License.
-
-Developed  by Abhinav Gupta.
